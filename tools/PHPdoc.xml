@@ -1,9 +1,0 @@
-<toolSet name="PHPdoc">
-  <tool name="generate" description="API documentation generator" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="D:\Zend\ZendServer\bin\phpdoc.bat" />
-      <option name="PARAMETERS" value="-d $FileDir$ -t $ProjectFileDir$/.docs/phpdoc/ --title $ProjectName$ --force" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-</toolSet>
