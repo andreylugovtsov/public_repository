@@ -1,0 +1,34 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f7ab3aa3-750b-4b1f-86f3-8b984069c8bb" name="competence" url="http://localhost:8080/">
+        <fileTransfer host="188.127.224.16" port="3322" rootFolder="/var/www/competenc-e.com/" accessType="SFTP" password="dfccdfdfdfc7df98dffcdff2df9edfc3dfdfdffedfc5dfdc" username="lugovtsov" />
+      </webServer>
+      <webServer id="9d8ba9fd-acac-430c-83d9-55ae41cbf64c" name="OCOM local test" url="http://192.168.15.19/">
+        <fileTransfer host="192.168.15.19" port="22" accessType="SFTP" password="dffddfebdfd2dfcddfc7dfc3dffadff3dfcbdfe7" username="root" />
+      </webServer>
+      <webServer id="aee0a905-4521-4b24-9e76-b981a3a81c0c" name="webserver.sitealytics.com" url="http://sitealytics.com/">
+        <fileTransfer host="108.178.38.218" port="222" rootFolder="/home" accessType="SFTP" password="dfe4dfc8df93dfd9dfdcdfc7dfdcdfcddfccdf9ddfd8df9d" username="root" />
+      </webServer>
+      <webServer id="3920fb4c-b330-4b70-8257-58238e4b359a" name="dev.oopgo.com" url="http://108.178.39.2">
+        <fileTransfer host="108.178.39.2" port="222" rootFolder="/home/oopgo/public_html/dev" accessType="SFTP" password="dff9df93dfd9df99dfc8df99dfc2dfd8dfc4df9edfc4df9f" username="root" />
+      </webServer>
+      <webServer id="f6e35f4e-3e86-414e-b51a-9c60351bab49" name="oopgo_alpha" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3ba4c242-5926-4ba8-b1c3-018c6c0c9e25" name="devapp.oopgo.com" url="http://new.devapp.oopgo.com/">
+        <fileTransfer host="devapp.oopgo.com" port="222" accessType="SFTP" password="dfe4df93dfc9dfc4df9edfdcdf9bdf9b" username="root" />
+      </webServer>
+      <webServer id="c32343a3-b64c-4b1a-a4aa-29951b06fa28" name="sandbox" url="http://lugovtsov.devel.tut.by/">
+        <fileTransfer host="sandbox.tutby.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lugovtsov" accessType="SFTP" passphrase="df9bdf98df9edf9fdf9ddf92dfd0dfd2dfc9" username="lugovtsov" keyPair="true" />
+      </webServer>
+      <webServer id="1508135a-f4f7-45f0-8df9-ad2094f632ea" name="178.124.133.2" url="http://mvideo.tut.by/mobile/">
+        <fileTransfer host="178.124.133.2" port="21" rootFolder="/UniServer2/www/mobile" password="df9ddfc7dfcbdfccdfdcdfd8dfc2dffbdfeedfdddfd8df92" username="mobilpress">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
