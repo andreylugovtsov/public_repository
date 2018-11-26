@@ -15,5 +15,6 @@
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*services.yml</mask>
+    <mask>index.html</mask>
   </component>
 </application>
