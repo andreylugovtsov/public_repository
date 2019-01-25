@@ -15,8 +15,8 @@
     <mask>*services.yml</mask>
     <mask>index.html</mask>
     <mask>*links.menu.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
