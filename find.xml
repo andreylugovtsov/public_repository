@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default" />
-    <option name="defaultScopeName" value="Default" />
-    <option name="SEARCH_SCOPE" value="Default" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="customScope" value="MVPD custom files" />
+    <option name="defaultScopeName" value="MVPD custom files" />
+    <option name="SEARCH_SCOPE" value="MVPD custom files" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
