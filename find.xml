@@ -19,7 +19,6 @@
     <mask>*node*</mask>
     <mask>*test*</mask>
     <mask>*install</mask>
-    <mask>*css</mask>
     <mask>*Command.php</mask>
     <mask>*controller*</mask>
     <mask>*form*</mask>
@@ -33,5 +32,6 @@
     <mask>*.action.yml</mask>
     <mask>*tagassembler.php</mask>
     <mask>*.yml</mask>
+    <mask>*css</mask>
   </component>
 </application>
