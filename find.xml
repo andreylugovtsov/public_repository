@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*form*" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -20,7 +21,6 @@
     <mask>*install</mask>
     <mask>*Command.php</mask>
     <mask>*controller*</mask>
-    <mask>*form*</mask>
     <mask>*info.yml</mask>
     <mask>*yml</mask>
     <mask>*.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.yml</mask>
     <mask>*js</mask>
     <mask>*css</mask>
+    <mask>*form*</mask>
   </component>
 </application>
