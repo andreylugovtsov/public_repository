@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*services.yml</mask>
@@ -33,5 +32,6 @@
     <mask>*css</mask>
     <mask>*form*</mask>
     <mask>*routing*</mask>
+    <mask>*install*</mask>
   </component>
 </application>
