@@ -31,7 +31,7 @@
     <mask>*js</mask>
     <mask>*css</mask>
     <mask>*form*</mask>
-    <mask>*routing*</mask>
     <mask>*install*</mask>
+    <mask>*routing*</mask>
   </component>
 </application>
