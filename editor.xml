@@ -8,6 +8,13 @@
     <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
