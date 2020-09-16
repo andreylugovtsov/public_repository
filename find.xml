@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="MVPD custom files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="MVPD custom files" />
+    <option name="FILE_MASK" value="*routing*" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*services.yml</mask>
@@ -32,8 +33,8 @@
     <mask>*js</mask>
     <mask>*css</mask>
     <mask>*form*</mask>
-    <mask>*routing*</mask>
     <mask>*test*</mask>
     <mask>*install*</mask>
+    <mask>*routing*</mask>
   </component>
 </application>
