@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="MVPD custom files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="MVPD custom files" />
-    <option name="FILE_MASK" value="*routing*" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*services.yml</mask>
