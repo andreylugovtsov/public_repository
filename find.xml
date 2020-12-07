@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*services.yml</mask>
@@ -25,7 +26,6 @@
     <mask>*menu.yml</mask>
     <mask>*.action.yml</mask>
     <mask>*tagassembler.php</mask>
-    <mask>*.yml</mask>
     <mask>*js</mask>
     <mask>*test*</mask>
     <mask>*install*</mask>
@@ -33,5 +33,6 @@
     <mask>*css</mask>
     <mask>*install</mask>
     <mask>*form*</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
