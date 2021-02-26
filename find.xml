@@ -27,11 +27,11 @@
     <mask>*js</mask>
     <mask>*test*</mask>
     <mask>*install*</mask>
-    <mask>*routing*</mask>
     <mask>*install</mask>
     <mask>*form*</mask>
     <mask>*.yml</mask>
     <mask>*menu.yml</mask>
     <mask>*css</mask>
+    <mask>*routing*</mask>
   </component>
 </application>
