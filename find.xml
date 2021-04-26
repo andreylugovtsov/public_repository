@@ -14,24 +14,24 @@
     <mask>*valida*</mask>
     <mask>*Controller*</mask>
     <mask>*node*</mask>
-    <mask>*install</mask>
     <mask>*Command.php</mask>
     <mask>*controller*</mask>
     <mask>*info.yml</mask>
-    <mask>*yml</mask>
     <mask>*.js</mask>
     <mask>*links.yml</mask>
     <mask>*.php</mask>
     <mask>*action.yml</mask>
-    <mask>*menu.yml</mask>
     <mask>*.action.yml</mask>
     <mask>*tagassembler.php</mask>
-    <mask>*.yml</mask>
     <mask>*js</mask>
-    <mask>*css</mask>
-    <mask>*form*</mask>
-    <mask>*install*</mask>
-    <mask>*routing*</mask>
     <mask>*test*</mask>
+    <mask>*install*</mask>
+    <mask>*form*</mask>
+    <mask>*.yml</mask>
+    <mask>*menu.yml</mask>
+    <mask>*css</mask>
+    <mask>*install</mask>
+    <mask>*routing*</mask>
+    <mask>*yml</mask>
   </component>
 </application>
