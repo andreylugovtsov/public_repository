@@ -11,9 +11,9 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="EntityPublisher" type="PLAIN_TEXT" />
+      <mapping pattern="finance_catalog" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="gearman_conf_dev" type="PLAIN_TEXT" />
-      <mapping pattern="finance_catalog" type="PLAIN_TEXT" />
       <mapping ext="kz" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
