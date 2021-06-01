@@ -26,7 +26,9 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.ShowDiff" />
-  <action id="Debug" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>
