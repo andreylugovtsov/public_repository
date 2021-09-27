@@ -19,5 +19,9 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\b\@todo\b.*" />
+    <pattern icon="important" pattern="\bcito\b.*" />
+    <filter name="cito">
+      <pattern index="3" />
+    </filter>
   </component>
 </application>
