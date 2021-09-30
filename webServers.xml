@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76c49d7a-19a0-447c-80fb-d1d8210b9b67" name="d7_mvpd_admin" url="http://local-mvpdadmin-drupal.apps.nbcuni.com">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
