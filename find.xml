@@ -3,6 +3,7 @@
     <option name="customScope" value="MVPD custom files" />
     <option name="defaultScopeName" value="MVPD custom files" />
     <option name="SEARCH_SCOPE" value="MVPD custom files" />
+    <option name="FILE_MASK" value="*yml" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*services.yml</mask>
