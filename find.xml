@@ -31,7 +31,7 @@
     <mask>*info.yml</mask>
     <mask>*json</mask>
     <mask>*.php</mask>
-    <mask>*yml</mask>
     <mask>*links.task.yml</mask>
+    <mask>*yml</mask>
   </component>
 </application>
