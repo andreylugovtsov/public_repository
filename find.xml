@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>index.html</mask>
+    <option name="FILE_MASK" value="migrate_plus*" />
     <mask>*links.menu.yml</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
@@ -33,5 +33,6 @@
     <mask>*links.task.yml</mask>
     <mask>*yml</mask>
     <mask>*module</mask>
+    <mask>migrate_plus*</mask>
   </component>
 </application>
