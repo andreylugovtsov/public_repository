@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="migrate_plus*" />
     <mask>*links.menu.yml</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
