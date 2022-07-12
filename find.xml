@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*install*" />
     <mask>*links.menu.yml</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
@@ -19,7 +20,6 @@
     <mask>*tagassembler.php</mask>
     <mask>*js</mask>
     <mask>*test*</mask>
-    <mask>*install*</mask>
     <mask>*form*</mask>
     <mask>*.yml</mask>
     <mask>*menu.yml</mask>
@@ -33,5 +33,6 @@
     <mask>migrate_plus*</mask>
     <mask>*.php</mask>
     <mask>*yml</mask>
+    <mask>*install*</mask>
   </component>
 </application>
