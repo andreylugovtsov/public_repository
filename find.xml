@@ -23,7 +23,6 @@
     <mask>*menu.yml</mask>
     <mask>*install</mask>
     <mask>*css</mask>
-    <mask>*info.yml</mask>
     <mask>*json</mask>
     <mask>*links.task.yml</mask>
     <mask>*module</mask>
@@ -33,5 +32,6 @@
     <mask>*install*</mask>
     <mask>*.php</mask>
     <mask>*.deploy*</mask>
+    <mask>*info.yml</mask>
   </component>
 </application>
