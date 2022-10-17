@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*php</mask>
@@ -28,10 +29,10 @@
     <mask>*module</mask>
     <mask>migrate_plus*</mask>
     <mask>*install*</mask>
-    <mask>*.php</mask>
     <mask>*.deploy*</mask>
     <mask>*info.yml</mask>
     <mask>*yml</mask>
     <mask>*routing*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
