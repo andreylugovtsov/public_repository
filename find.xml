@@ -30,8 +30,8 @@
     <mask>*.deploy*</mask>
     <mask>*info.yml</mask>
     <mask>*yml</mask>
-    <mask>*.php</mask>
     <mask>*js</mask>
     <mask>*routing*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
