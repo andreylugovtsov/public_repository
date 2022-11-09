@@ -3,6 +3,7 @@
     <option name="customScope" value="modules/custom" />
     <option name="defaultScopeName" value="modules/custom" />
     <option name="SEARCH_SCOPE" value="modules/custom" />
+    <option name="FILE_MASK" value="*routing*" />
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*php</mask>
@@ -31,7 +32,7 @@
     <mask>*info.yml</mask>
     <mask>*yml</mask>
     <mask>*js</mask>
-    <mask>*routing*</mask>
     <mask>*.php</mask>
+    <mask>*routing*</mask>
   </component>
 </application>
