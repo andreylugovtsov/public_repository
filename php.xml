@@ -37,6 +37,7 @@
             <extension name="date" />
             <extension name="dom" />
             <extension name="filter" />
+            <extension name="gd" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
