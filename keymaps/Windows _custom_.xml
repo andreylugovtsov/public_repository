@@ -2,11 +2,17 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="GotoRow">
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="WebOpenInAction">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
 </keymap>
