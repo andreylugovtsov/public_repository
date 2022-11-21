@@ -1,0 +1,21 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\b\@todo\b.*" />
+    <pattern icon="important" pattern="\bcito\b.*" />
+    <filter name="cito">
+      <pattern index="3" />
+    </filter>
+  </component>
+</application>
