@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows (custom)" parent="$default">
+  <action id="EditorContextInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
@@ -13,6 +16,13 @@
   </action>
   <action id="GotoRow">
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="WebOpenInAction">
     <keyboard-shortcut first-keystroke="ctrl f12" />
