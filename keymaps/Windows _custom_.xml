@@ -18,10 +18,6 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="ctrl q" />
-  </action>
-  <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="WebOpenInAction">
