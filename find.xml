@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="modules/custom" />
-    <option name="defaultScopeName" value="modules/custom" />
-    <option name="SEARCH_SCOPE" value="modules/custom" />
+    <option name="customScope" value="themes/myoris" />
+    <option name="defaultScopeName" value="themes/myoris" />
+    <option name="SEARCH_SCOPE" value="themes/myoris" />
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*php</mask>
