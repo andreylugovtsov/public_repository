@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="themes/myoris" />
-    <option name="defaultScopeName" value="themes/myoris" />
-    <option name="SEARCH_SCOPE" value="themes/myoris" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="modules/custom" />
+    <option name="defaultScopeName" value="modules/custom" />
+    <option name="SEARCH_SCOPE" value="modules/custom" />
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*php</mask>
@@ -30,9 +29,9 @@
     <mask>*install*</mask>
     <mask>*.deploy*</mask>
     <mask>*info.yml</mask>
-    <mask>*routing*</mask>
     <mask>*js</mask>
     <mask>*yml</mask>
     <mask>*.php</mask>
+    <mask>*routing*</mask>
   </component>
 </application>
