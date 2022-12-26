@@ -3,6 +3,7 @@
     <option name="customScope" value="themes/myoris" />
     <option name="defaultScopeName" value="themes/myoris" />
     <option name="SEARCH_SCOPE" value="themes/myoris" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*php</mask>
@@ -30,8 +31,8 @@
     <mask>*.deploy*</mask>
     <mask>*info.yml</mask>
     <mask>*routing*</mask>
-    <mask>*.php</mask>
     <mask>*js</mask>
     <mask>*yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
