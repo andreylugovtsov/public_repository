@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="modules/custom" />
     <option name="defaultScopeName" value="modules/custom" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="modules/custom" />
+    <option name="FILE_MASK" value="*js" />
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*php</mask>
@@ -29,9 +32,9 @@
     <mask>*install*</mask>
     <mask>*.deploy*</mask>
     <mask>*info.yml</mask>
-    <mask>*js</mask>
     <mask>*.php</mask>
     <mask>*routing*</mask>
     <mask>*yml</mask>
+    <mask>*js</mask>
   </component>
 </application>
