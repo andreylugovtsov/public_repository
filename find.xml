@@ -31,7 +31,7 @@
     <mask>*info.yml</mask>
     <mask>*.php</mask>
     <mask>*routing*</mask>
-    <mask>*yml</mask>
     <mask>*js</mask>
+    <mask>*yml</mask>
   </component>
 </application>
