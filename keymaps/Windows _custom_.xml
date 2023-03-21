@@ -1,9 +1,15 @@
 <keymap version="1" name="Windows (custom)" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorContextInfo">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt f2" />
@@ -17,9 +23,13 @@
   <action id="GotoRow">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Images.Thumbnails.Hide">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="UsageFiltering.WriteAccess" />
   <action id="WebOpenInAction">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>

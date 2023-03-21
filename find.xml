@@ -29,9 +29,9 @@
     <mask>*install*</mask>
     <mask>*.deploy*</mask>
     <mask>*info.yml</mask>
+    <mask>*js</mask>
     <mask>*routing*</mask>
     <mask>*.php</mask>
-    <mask>*js</mask>
     <mask>*yml</mask>
   </component>
 </application>
