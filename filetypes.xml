@@ -5,10 +5,10 @@
       <mapping pattern="apple-developer-merchantid-domain-association" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="*.php.cache" type="PHP" />
-      <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
-      <mapping ext="install" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="EntityPublisher" type="PLAIN_TEXT" />
       <mapping pattern="gearman_conf_dev" type="PLAIN_TEXT" />
