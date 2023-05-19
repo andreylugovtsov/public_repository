@@ -1,7 +1,12 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
