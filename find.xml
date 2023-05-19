@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*commands.php" />
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*php</mask>
@@ -33,5 +34,6 @@
     <mask>*routing*</mask>
     <mask>*yml</mask>
     <mask>*.php</mask>
+    <mask>*commands.php</mask>
   </component>
 </application>
