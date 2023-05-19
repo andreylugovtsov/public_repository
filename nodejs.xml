@@ -1,0 +1,6 @@
+<application>
+  <component name="WslNodeInterpreterManager">
+    <wsl-interpreter distribution="Ubuntu-22.04" path="/home/flu/.nvm/versions/node/v19.1.0/bin/node" />
+    <wsl-interpreter distribution="Ubuntu" path="/home/flu/.nvm/versions/node/v16.18.1/bin/node" />
+  </component>
+</application>

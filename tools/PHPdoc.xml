@@ -1,0 +1,9 @@
+<toolSet name="PHPdoc">
+  <tool name="generate" description="API documentation generator" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\PHP\php.exe phpdoc.phar" />
+      <option name="PARAMETERS" value="-d $FileDir$ -t $ProjectFileDir$\phpdoc\ --title $ProjectName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

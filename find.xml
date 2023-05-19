@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <mask>*.twig</mask>
+    <mask>*.css</mask>
+    <mask>*php</mask>
+    <mask>*valida*</mask>
+    <mask>*Controller*</mask>
+    <mask>*node*</mask>
+    <mask>*Command.php</mask>
+    <mask>*controller*</mask>
+    <mask>*.js</mask>
+    <mask>*links.yml</mask>
+    <mask>*action.yml</mask>
+    <mask>*.action.yml</mask>
+    <mask>*tagassembler.php</mask>
+    <mask>*test*</mask>
+    <mask>*form*</mask>
+    <mask>*.yml</mask>
+    <mask>*menu.yml</mask>
+    <mask>*install</mask>
+    <mask>*css</mask>
+    <mask>*json</mask>
+    <mask>*links.task.yml</mask>
+    <mask>*module</mask>
+    <mask>migrate_plus*</mask>
+    <mask>*install*</mask>
+    <mask>*.deploy*</mask>
+    <mask>*info.yml</mask>
+    <mask>*js</mask>
+    <mask>*routing*</mask>
+    <mask>*yml</mask>
+    <mask>*.php</mask>
+  </component>
+</application>
