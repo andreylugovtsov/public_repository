@@ -7,10 +7,15 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="WebOpenInAction" />
 </keymap>
