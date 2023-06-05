@@ -6,6 +6,8 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
@@ -16,6 +18,14 @@
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="WebOpenInAction" />
 </keymap>
