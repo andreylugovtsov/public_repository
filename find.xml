@@ -32,7 +32,7 @@
     <mask>*js</mask>
     <mask>*commands.php</mask>
     <mask>*routing*</mask>
-    <mask>*yml</mask>
     <mask>*.php</mask>
+    <mask>*yml</mask>
   </component>
 </application>
