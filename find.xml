@@ -34,5 +34,6 @@
     <mask>*routing*</mask>
     <mask>*.php</mask>
     <mask>*yml</mask>
+    <mask>*Test*</mask>
   </component>
 </application>
