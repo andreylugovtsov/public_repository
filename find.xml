@@ -29,11 +29,11 @@
     <mask>*install*</mask>
     <mask>*.deploy*</mask>
     <mask>*info.yml</mask>
-    <mask>*js</mask>
     <mask>*commands.php</mask>
     <mask>*routing*</mask>
     <mask>*.php</mask>
     <mask>*Test*</mask>
     <mask>*yml</mask>
+    <mask>*js</mask>
   </component>
 </application>
