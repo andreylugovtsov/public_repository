@@ -31,9 +31,9 @@
     <mask>*info.yml</mask>
     <mask>*commands.php</mask>
     <mask>*routing*</mask>
-    <mask>*.php</mask>
     <mask>*Test*</mask>
     <mask>*yml</mask>
     <mask>*js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
