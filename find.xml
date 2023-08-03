@@ -30,11 +30,11 @@
     <mask>*.deploy*</mask>
     <mask>*info.yml</mask>
     <mask>*commands.php</mask>
-    <mask>*routing*</mask>
     <mask>*Test*</mask>
     <mask>*js</mask>
     <mask>*yml</mask>
     <mask>*task.yml</mask>
     <mask>*.php</mask>
+    <mask>*routing*</mask>
   </component>
 </application>
