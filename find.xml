@@ -35,7 +35,7 @@
     <mask>*task.yml</mask>
     <mask>**</mask>
     <mask>*.php</mask>
-    <mask>*yml</mask>
     <mask>*routing*</mask>
+    <mask>*yml</mask>
   </component>
 </application>
