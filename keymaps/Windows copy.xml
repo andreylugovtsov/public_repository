@@ -41,6 +41,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
