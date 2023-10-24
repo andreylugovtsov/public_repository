@@ -23,7 +23,6 @@
     <mask>*css</mask>
     <mask>*json</mask>
     <mask>*links.task.yml</mask>
-    <mask>*module</mask>
     <mask>migrate_plus*</mask>
     <mask>*.deploy*</mask>
     <mask>*commands.php</mask>
@@ -37,5 +36,6 @@
     <mask>*install*</mask>
     <mask>*routing*</mask>
     <mask>*.twig</mask>
+    <mask>*module</mask>
   </component>
 </application>
