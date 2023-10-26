@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="127.0.0.1" id="9f33200e-0a59-4ff9-8b47-cecbfb4be717" keyPath="C:\Cygwin64\home\Andrey_Lugovtsov\.ssh\id_rsa" port="3323" nameFormat="DESCRIPTIVE" username="flu" />
-    </configs>
-  </component>
-</application>
