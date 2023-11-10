@@ -26,6 +26,9 @@
       </map>
     </option>
   </component>
+  <component name="EditorSettings">
+    <option name="RENAME_VARIABLES_INPLACE" value="false" />
+  </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>

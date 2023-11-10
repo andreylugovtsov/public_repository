@@ -27,6 +27,7 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="Z:/mvpd_admin/web/patches" />
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
   <component name="VcsEditorTab.Settings">
     <option name="openInNewWindow" value="true" />
