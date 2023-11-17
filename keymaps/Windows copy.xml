@@ -56,5 +56,9 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="SelectIn" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
   <action id="WebOpenInAction" />
 </keymap>
