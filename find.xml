@@ -3,6 +3,7 @@
     <option name="customScope" value="Custom modules" />
     <option name="defaultScopeName" value="Custom modules" />
     <option name="SEARCH_SCOPE" value="Custom modules" />
+    <option name="FILE_MASK" value="*yml" />
     <mask>*.css</mask>
     <mask>*php</mask>
     <mask>*valida*</mask>
@@ -35,7 +36,7 @@
     <mask>*routing*</mask>
     <mask>*.twig</mask>
     <mask>*module</mask>
-    <mask>*yml</mask>
     <mask>*.php</mask>
+    <mask>*yml</mask>
   </component>
 </application>
