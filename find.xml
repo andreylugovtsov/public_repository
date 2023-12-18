@@ -3,6 +3,7 @@
     <option name="customScope" value="custom modules" />
     <option name="defaultScopeName" value="custom modules" />
     <option name="SEARCH_SCOPE" value="custom modules" />
+    <option name="FILE_MASK" value="*graph*" />
     <mask>*.css</mask>
     <mask>*php</mask>
     <mask>*valida*</mask>
