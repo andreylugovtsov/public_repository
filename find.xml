@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="custom modules" />
-    <option name="defaultScopeName" value="custom modules" />
-    <option name="SEARCH_SCOPE" value="custom modules" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*php</mask>
     <mask>*valida*</mask>
