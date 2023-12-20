@@ -3,6 +3,7 @@
     <option name="customScope" value="Custom modules" />
     <option name="defaultScopeName" value="Custom modules" />
     <option name="SEARCH_SCOPE" value="Custom modules" />
+    <option name="FILE_MASK" value="*libraries*" />
     <mask>*.css</mask>
     <mask>*php</mask>
     <mask>*valida*</mask>
@@ -38,5 +39,6 @@
     <mask>*.php</mask>
     <mask>*yml</mask>
     <mask>*graph*</mask>
+    <mask>*libraries*</mask>
   </component>
 </application>
